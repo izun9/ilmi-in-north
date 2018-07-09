@@ -1,2 +1,2 @@
 # ilmiinnorth
-ilmiinnoeth static preview html
+>ilmi-in-north static preview html site
